@@ -3,8 +3,6 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="file:///media/in/Disk_D/All%20Stuff/Image/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchetan01&label=Profile%20views&color=0e75b6&style=flat" alt="devchetan01" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devchetan01" alt="devchetan01" /></a> </p>
-
 
 
 - 🔭 I’m currently working on **Web Scraping Automation**
