@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 align="center">Web Developer and Data Scientist from India living his best life </h3>
+<h3 align="center">Web Developer and Data Scientist  </h3>
 <!--
 **DEVchetan01/DEVchetan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
