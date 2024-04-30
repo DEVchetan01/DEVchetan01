@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">Web Developer and Data Scientist from India living his best life </h3>
 <!--
