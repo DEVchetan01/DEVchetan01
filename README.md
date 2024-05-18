@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate Web developer and data scientist from India</h3>
 <!-- <img align='right' alt='coding' width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"> -->
- <img align='right' alt='coding' width='400' src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+ <img align='right' alt='coding' width='425' src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchetan01&label=Profile%20views&color=0e75b6&style=flat" alt="devchetan01" /> </p>
 
