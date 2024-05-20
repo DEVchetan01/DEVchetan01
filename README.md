@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devchetan01&" alt="devchetan01" /></p>
 
- <div align="center">
-  <img src="https://github.com/ryo-ma/github-profile-trophy" align="center" />
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moizafzal936"&&style=flat-square" align="center" />
 </div> 
