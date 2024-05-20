@@ -50,13 +50,12 @@
 
 
 
-
 ## Github Stats  
  <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=moizafzal936"&&style=flat-square" align="center" />
 </div> 
 
-
+<br/>  
 
 
 
