@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devchetan01&show_icons=true&locale=en" alt="devchetan01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devchetan01&" alt="devchetan01" /></p>
+
+<img align='right' alt='coding' width='45' src="https://github-profile-trophy.vercel.app/?username=DEVchetan01)](https://github.com/ryo-ma/github-profile-trophy">
+</p>
