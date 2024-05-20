@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chetan jangir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan jangir" height="30" width="40" /></a>
 <a href="https://kaggle.com/chetan_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chetan_in" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg](https://github-profile-trophy.vercel.app/?username=DEVchetan01)](https://github.com/ryo-ma/github-profile-trophy)" alt="chetan_in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
