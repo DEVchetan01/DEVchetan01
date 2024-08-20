@@ -6,15 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchetan01&label=Profile%20views&color=0e75b6&style=flat" alt="devchetan01" /> </p>
 
 
-- 🔭 I’m currently working on **Web Scraping Automation**
+- 🔭 I’m currently working on **SMTP Email Automation**
 
-- 🌱 I’m currently learning **EDA, GeoPandas**
+- 🌱 I’m currently learning **Automation, Development**
 
 - 💬 Ask me about **Web scraping and EDA**
 
 - 📄 Know about my experiences [https://www.polywork.com/chetan_jangir](https://www.polywork.com/chetan_jangir)
 
-- ⚡ Fun fact **I am very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
