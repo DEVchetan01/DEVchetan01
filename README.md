@@ -34,24 +34,23 @@
 
 
 
+<p align="center">
+  <img src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif" alt="Your GIF Description" style="width: 102%; height: 300px;" />
+</p>
 
 
 
 
 
-<img align='right' alt='coding' width='300' src="https://64.media.tumblr.com/4128d84fc14f5c3768b747636181bbc6/tumblr_mxloxbDQ1h1qa6q9uo1_r1_500.gif">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devchetan01&show_icons=true&locale=en" alt="devchetan01" /></p>
-
-# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devchetan01&" alt="devchetan01" /></p>
 
 
 
 
-## Github Stats  
+
  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moizafzal936"&&style=flat-square"  />
+  <img src="https://user-images.githubusercontent.com/6661165/92315152-e9c56600-f01c-11ea-9536-1bfbb158cfcb.png" alt="trofe" style="width: 100%; height: 150px;" />
 </div> 
+
 
 
 
