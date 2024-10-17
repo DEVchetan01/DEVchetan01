@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <img src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif" alt="Your GIF Description" style="width: 102%; height: 300px;" />
+  <img src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif" alt="Your GIF Description" style="width: 122%; height: 220px;" />
 </p>
 
 
